@@ -6,8 +6,6 @@
 
 ### 🚀 Tech Stack
 
-### 🚀 Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/laravel/laravel-plain.svg" alt="Laravel" width="80" height="40"/>
