@@ -3,6 +3,7 @@
 🔹 A passionate **Software Engineer** with 3+ years of experience architecting and developing scalable, high-performance web applications using modern technologies like **Laravel**, **Node.js**, **React**, and **AWS**.
 
 ---
+
 ### 🚀 Tech Stack
 
 #### 💻 Frontend
@@ -35,27 +36,41 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="50" />
 </p>
 
-
-
-
 ---
 
 ### 🏆 Key Achievements
-- 🛫 Enhanced a microservices-based travel platform (**GlobalTravelTech**) by improving booking speed by 15% and boosting user satisfaction by 10%.
-- 📊 Developed a real-time sentiment analysis tool for 500k+ tweets, increasing user engagement by 20% (**Digitallens**).
-- ⚽ Built a scalable sports data platform (**Fanzine**), improving live score updates by 30% and enhancing user engagement by 15%.
-- 🎯 Created a Laravel-based betting platform (**SportSkins**) that increased user activity by 35% and retention by 20%.
+
+- 🛫 **GlobalTravelTech (GTT):** Enhanced a microservices-based travel platform by improving booking speed by 15% and boosting user satisfaction by 10%.
+- 📊 **Digitallens:** Developed a real-time sentiment analysis tool processing 500k+ tweets, increasing user engagement by 20%.
+- ⚽ **Fanzine:** Built a scalable sports data platform, improving live score updates by 30% and enhancing user engagement by 15%.
+- 🎯 **SportSkins:** Created a Laravel-based betting platform that increased user activity by 35% and retention by 20%.
+- 💻 **Codestudio.pk:** Launched an interactive portfolio website, increasing site traffic by 25% and client inquiries by 15%.
 
 ---
 
 ### 🌱 Currently Learning
+
 - Advanced cloud architecture and deployment strategies
 - Scalable system design
 - Frontend engineering with **React.js** and modern JavaScript frameworks
 
 ---
 
+### 💼 **Work Experience**
+
+#### **Software Engineer**  
+**Code Studio Pakistan** | Islamabad | **Jan 2023 - Present**
+
+- Led the development of **GlobalTravelTech**, enhancing booking speed by 15% and improving user satisfaction by 10%.
+- Developed **Digitallens**, processing 500,000+ tweets for sentiment insights, increasing user engagement by 20%.
+- Built a **Laravel**-based insurance e-commerce platform (**Finesselife**) increasing sales by 25% and ensuring 99% transaction reliability.
+- Designed and developed **Fanzine**, a sports data platform improving live score updates by 30%.
+- Developed **SportSkins**, a betting platform that improved user retention by 20% through real-time features.
+
+---
+
 ### 📫 Let's Connect
+
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-faizan-iqbal/)
 - 📧 muhammadfaizan11414@gmail.com
 - 📱 +92 319 0526586
@@ -63,4 +78,7 @@
 ---
 
 ### ⚡ Fun Fact
+
 > I believe that great software isn't just built — it's crafted. I love transforming ideas into user-focused, scalable, and impactful solutions.
+
+---
