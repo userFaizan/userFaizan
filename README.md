@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Muhammad Faizan
 
-🔹 A passionate **Software Engineer** with over 3 years of hands-on experience designing and developing scalable, high-performance web applications.
+🔹 A passionate **Software Engineer** with 3+ years of experience architecting and developing scalable, high-performance web applications using modern technologies like **Laravel**, **Node.js**, **React**, and **AWS**.
 
 ---
 
@@ -8,7 +8,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
@@ -17,16 +17,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="40"/>
 </p>
 
 ---
 
 ### 🏆 Key Achievements
-- 🛫 Enhanced a microservices-based travel platform (GlobalTravelTech) by improving booking speed by 15% and boosting user satisfaction by 10%.
-- 📊 Developed a real-time sentiment analysis tool for 500k+ tweets, increasing user engagement by 20% (Digitallens).
-- ⚽ Built a scalable sports data platform (Fanzine), improving live score updates by 30% and enhancing user engagement by 15%.
-- 🎯 Created a Laravel-based betting platform (SportSkins) that increased user activity by 35% and retention by 20%.
+- 🛫 Enhanced a microservices-based travel platform (**GlobalTravelTech**) by improving booking speed by 15% and boosting user satisfaction by 10%.
+- 📊 Developed a real-time sentiment analysis tool for 500k+ tweets, increasing user engagement by 20% (**Digitallens**).
+- ⚽ Built a scalable sports data platform (**Fanzine**), improving live score updates by 30% and enhancing user engagement by 15%.
+- 🎯 Created a Laravel-based betting platform (**SportSkins**) that increased user activity by 35% and retention by 20%.
 
 ---
 
