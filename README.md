@@ -82,3 +82,9 @@
 > I believe that great software isn't just built — it's crafted. I love transforming ideas into user-focused, scalable, and impactful solutions.
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=userFaizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Muhammad Faizan's GitHub Stats"/>
+</p>
