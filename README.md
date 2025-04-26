@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hello, I'm Muhammad Faizan
 
-<!--
-**userFaizan/userFaizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 A passionate **Software Engineer** with over 3 years of hands-on experience designing and developing scalable, high-performance web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
+
+---
+
+### 🏆 Key Achievements
+- 🛫 Enhanced a microservices-based travel platform (GlobalTravelTech) by improving booking speed by 15% and boosting user satisfaction by 10%.
+- 📊 Developed a real-time sentiment analysis tool for 500k+ tweets, increasing user engagement by 20% (Digitallens).
+- ⚽ Built a scalable sports data platform (Fanzine), improving live score updates by 30% and enhancing user engagement by 15%.
+- 🎯 Created a Laravel-based betting platform (SportSkins) that increased user activity by 35% and retention by 20%.
+
+---
+
+### 🌱 Currently Learning
+- Advanced cloud architecture and deployment strategies
+- Scalable system design
+- Frontend engineering with **React.js** and modern JavaScript frameworks
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn Profile](https://linkedin.com/in/muhammad-faizan-iqbal)
+- 📧 muhammadfaizan11414@gmail.com
+- 📱 +92 319 0526586
+
+---
+
+### ⚡ Fun Fact
+> I believe that great software isn't just built — it's crafted. I love transforming ideas into user-focused, scalable, and impactful solutions.
