@@ -86,5 +86,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=userFaizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Muhammad Faizan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Faizan's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan&theme=radical" alt="GitHub Streak"/>
+</p>
+
