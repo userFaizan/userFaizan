@@ -86,7 +86,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Faizan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=userFaizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Faizan's GitHub Stats"/>
 </p>
 
 ---
