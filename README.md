@@ -106,3 +106,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=userFaizan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=userFaizan&style=flat-square&color=blue)
+![Profile Badge](https://img.shields.io/badge/Software%20Engineer-Full--Stack-blue)
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+---
+
