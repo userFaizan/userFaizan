@@ -88,7 +88,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Faizan's GitHub Stats"/>
 </p>
+---
 
 ---
 
+## 🗓️ GitHub Contribution Graph
 
+[![Faizan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=userFaizan&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=userFaizan&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=userFaizan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
